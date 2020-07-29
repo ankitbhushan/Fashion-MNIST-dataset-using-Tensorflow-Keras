@@ -1,2 +1,2 @@
-# MNIST-dataset-using-Tensorflow-Keras
+# Fashion MNIST-dataset-using-Tensorflow-Keras
 MNIST dataset using Tensorflow/Keras
